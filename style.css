@@ -21,7 +21,7 @@ body {
 .gradient-text {
   font-size: 60px;
   font-weight: bold;
-  background: linear-gradient(90deg, #035AFF, #ff9900, #DE51FF);
+  background: linear-gradient(90deg, #035AFF, #49F4FF, #DE51FF);
   -webkit-background-clip: text; /* Clippt den Hintergrund an den Text */
   -webkit-text-fill-color: transparent; /* Macht den Text selbst durchsichtig */
 }
