@@ -1,6 +1,16 @@
-h1 {
-    color: red;
-    }
+/* ---- Globaler Seiten-Hintergrund ---- */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 
-background: #3804d6;
-background: linear-gradient(90deg, rgba(56, 4, 214, 1) 0%, rgba(119, 87, 199, 1) 47%, rgba(76, 0, 255, 1) 100%, rgba(237, 221, 83, 1) 100%, rgba(237, 221, 83, 1) 100%);
+/* Hintergrund, der IMMER aktiv bleibt */
+body {
+  background: linear-gradient(135deg, #00b4db, #0083b0);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white; /* optional */
+  font-family: Arial, sans-serif; /* optional */
+}
