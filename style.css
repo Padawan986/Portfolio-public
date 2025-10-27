@@ -1,3 +1,6 @@
 h1 {
     color: red;
     }
+
+background: #3804d6;
+background: linear-gradient(90deg, rgba(56, 4, 214, 1) 0%, rgba(119, 87, 199, 1) 47%, rgba(76, 0, 255, 1) 100%, rgba(237, 221, 83, 1) 100%, rgba(237, 221, 83, 1) 100%);
