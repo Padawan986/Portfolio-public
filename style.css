@@ -14,5 +14,6 @@ body {
   color: white; /* optional */
   font-family: Arial, sans-serif; /* optional */
 }
-h1 {
-  positon: centered
+  h1 {
+      text-align: center;
+    }
