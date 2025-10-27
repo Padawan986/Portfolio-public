@@ -7,7 +7,7 @@ html, body {
 
 /* Hintergrund, der IMMER aktiv bleibt */
 body {
-  background: linear-gradient(135deg, #000000, #0083b0);
+  background: linear-gradient(135deg, #035AFF, #DE51FF);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
